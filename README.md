@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://www.rosetta-api.org">
-    <img width="90%" alt="Rosetta" src="https://www.rosetta-api.org/img/rosetta_header.png">
+  <a href="https://lbry,com">
+    <img width="90%" alt="LBRY Rosetta API" src="https://www.rosetta-api.org/img/rosetta_header.png">
   </a>
 </p>
 <h3 align="center">
-   Rosetta Bitcoin
+   Rosetta LBRY Integration
 </h3>
 <p align="center">
   <a href="https://circleci.com/gh/lbryio/rosetta-bitcoin/tree/master"><img src="https://circleci.com/gh/lbryio/rosetta-bitcoin/tree/master.svg?style=shield" /></a>
@@ -15,13 +15,13 @@
 </p>
 
 <p align="center"><b>
-ROSETTA-BITCOIN IS CONSIDERED <a href="https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha">ALPHA SOFTWARE</a>.
+ROSETTA-LBRY IS CONSIDERED <a href="https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha">ALPHA SOFTWARE</a>.
 USE AT YOUR OWN RISK! COINBASE ASSUMES NO RESPONSIBILITY NOR LIABILITY IF THERE IS A BUG IN THIS IMPLEMENTATION.
 </b></p>
 
 ## Overview
 
-`rosetta-bitcoin` provides a reference implementation of the Rosetta API for
+`rosetta-lbry` provides a reference implementation of the Rosetta API for
 Bitcoin in Golang. If you haven't heard of the Rosetta API, you can find more
 information [here](https://rosetta-api.org).
 
